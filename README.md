@@ -1,4 +1,4 @@
-# mobydick
+# Corerra
 For Advanced MLOps project
 
 Demo:
